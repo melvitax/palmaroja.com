@@ -1,0 +1,80 @@
+anchor:
+  en: "services"
+  es: "servicios"
+title:
+  en: "Landscape"
+  es: "Servicios"
+subtitle:
+  en: "Equiped for residential, commercial or institutional"
+  es: "Equipados pars residencial, comercial o industrial"
+service:
+  - title: 
+      en: "Landscape"
+      es: "Jardines"
+    subtitle:
+      en: 
+      es: 
+    image: "/images/playa-montones-thumb.jpg"
+    description: 
+      en: "We offer full service landscape design and installation services. We have the knowledge and experience to manage large scale logistics and the details that a demanding customer aspires."
+      es: "Ofrcemos servicio completo de diseño e instalación de jardines. Tenemos el conocimiento y la experiencia para manejar la logística de projectos grandes y el nivel de detalle al que aspira un cliente detallista."
+  - title: 
+      en: "Irrigation Systems"
+      es: "Sistemas de Riego"
+    subtitle: 
+      en: ""
+      es: ""
+    image: "/images/riego.jpg"
+    description: 
+      en: "We design for 100% area coverage, with match precipitation,  head to head reach and always use rain sensors. We use commercial grade equipment (Hunter) for long term durability and ease of use."
+      es: "Diseñamos sistemas de ragaje con 100% de cobertura y con sensores de lluvia para evitar el desperdicio de agua. Utilizamos equipo comercial (Hunter) que tienen larga duración y requieren muy poca atención."
+  - title: 
+      en: "Drainage Systems"
+      es: "Sistemas de drenaje"
+    subtitle: 
+      en: ""
+      es: ""
+    image: "/images/drenaje.jpg"
+    description: 
+      en: "We design comprehensive systems for improving the soil texture and profile. We install different types o pipes, french drains and catch basins and can build custom systems if needed."
+      es: "Diseñamos sistemas comprensivos para mejorar la textura del suelo. Instalamos todo tipo de tubería subterránea, drenajes franceses, cajas de captación de agua y construimos a la medida."
+  - title: 
+      en: "Landscape Maintenance"
+      es: "Mantenimiento"
+    subtitle: 
+      en: ""
+      es: ""
+    image: "/images/podando.jpg"
+    description: 
+      en: "Landscape maintenance for retail, schools, univerities, neighborhoods and buildings. We manage fertilizer, pesticides and irrigation scheduling, small repairs and adjustments."
+      es: "Mantenimiento de áreas verdes para comercios, escuelas, universidades, urbanizaciones y edificios. Manejo de malezas y plagas en plantas, mantenimiento del césped y sitemas de riego."
+  - title: 
+      en: "Arboriculture"
+      es: "Arboricultura"
+    subtitle: 
+      en: "Tree Management"
+      es: "Manejo de árboles"
+    image: "/images/transplante.jpg"
+    description: 
+      en: "Maintanance, diagnostics and treatment of trees. Tree management during constructions and tree transplants up to 40 feet tall and manage rootballs up to 16 feet Ø. Professionally trained staff."
+      es: "Mantenimento, diagnóstico y tratamiento de árboles. Conservación durante procesos de construcción y transplantes hasta 40 píes de altura y manejando raíces hasta 16 píes Ø. Personal profesionalmente entrenado."
+  - title: 
+      en: "Landscape Architecture"
+      es: "Arquitectura Paisajista"
+    subtitle: 
+      en: ""
+      es: ""
+    image: "/images/planos.jpg"
+    description: 
+      en: "Landscape Architect design services are available to fulfill the needs or vision of the more complex projects. This is available to projects from residential to regional scale."
+      es: "Servicios de diseño de Arquitecto Paisajista para cumplir las necesidades o la visión de los projectos más complejos. Disponible para projectos residenciales o a escala regional."
+  - title: 
+      en: "Consulting"
+      es: "Consultoría"
+    subtitle: 
+      en: ""
+      es: ""
+    image: "/images/consulting.jpg"
+    description: 
+      en: "Consulting services in Landscape Horticulture, Arboriculture and Landscape Design to private and government entities. Training in landscape horticulture and arboriculture in Puerto Rico and the Caribbean."
+      es: "Consultoría en Horticultura Ornamental, Arboricultura y Diseño Paisajista a entes privados y gubernamentales. Talleres de capacitación en Horticultura y Arboricultura en Puerto Rico y el Caribe."

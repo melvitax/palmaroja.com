@@ -1,0 +1,74 @@
+title:
+  en: "Landscape"
+  es: "Servicios"
+service:
+  - title: 
+      en: "Landscape"
+      es: "Jardines"
+    subtitle:
+      en: 
+      es: 
+    image: "/images/landscaping.jpg"
+    description: 
+      en: "We offer landscape design and installation services at residential, commercial and institutional scales. We can install our own design or any other design provided by the owner. We have the knowledge and experience to manage large scale logistics and the details that a demanding customer aspires."
+      es: "Ofrecemos servicios a las escalas residencial, comercial e industrial. Ya sea preparando nuestro propio diseño o implementando un plano ya preparado. Contamos con el conocimiento y la experiencia para manejar el nivel de detalle al que aspira un cliente exigente y detallista."
+  - title: 
+      en: "Irrigation Systems"
+      es: "Sistemas de riego"
+    subtitle: 
+      en: ""
+      es: ""
+    image: "/images/hunter.png"
+    description: 
+      en: "We offer landscape irrigation design and installation services at residential, commercial and institutional scales. We service and install Hunter brand equipments, which provide long term durability and hazzle free operation. We design for 100% area coverage, with match precipitation and head to head reach. Rain sensors are a must in every installation in order to turn off the system automatically in rainy days."
+      es: "Ofrecemos servicios a las escalas residencial, comercial e industrial. Utilizamos equipo comercial de la marca Hunter quien provee equipos de larga duración y los cuales requieren muy poca atención de parte de los propietarios. Aseguramos una cobertura 100% del área a regar y siempre instalamos sensores de lluvia para evitar el desperdicio de agua en días lluviosos."
+  - title: 
+      en: "Drainage Systems"
+      es: "Sistemas de drenaje"
+    subtitle: 
+      en: ""
+      es: ""
+    image: "/images/drenaje.jpg"
+    description: 
+      en: "When needed, we perform soil texture test, in order to determine the best techniques to improve drainage on a given area. We install different types o pipes, french drains and catch basins, if needed we can install a custom build catch basin. We also, improve soil profile characteristics, by adding materials that will improve drainage."
+      es: "Realizamos pruebas para determinar la textura del suelo de manera que podamos diseñar la mejor manera de atender los problemas de drenaje en un predio. Instalamos todo tipo de tubería subterránea, drenajes franceses y cajas de captación de agua de lluvia y retención de lodo o de ser necesario las construimos a la medida. Además implementamos recomendaciones para mejorar la textura del suelo."
+  - title: 
+      en: "Landscape Maintenance"
+      es: "Mantenimiento"
+    subtitle: 
+      en: ""
+      es: ""
+    image: "/images/podando.jpg"
+    description: 
+      en: "We offer landscape maintenance service to commercial and institutional clients. Our trademark is consistency, once your project is assigned a service day in our schedule, you can count on our regular visit consistently. Our supervisor will take care of our clients special needs and visit the project before or after every service visit to assure that all matters are taken care of with due diligence. Our monthly price always includes fertilizer, pesticides and irrigation scheduling, small repairs and adjustments."
+      es: "Ofrecemos servicios de mantenimiento de áreas verdes a clientes comerciales. Esto incluye comercios, escuelas y universidades, urbanizaciones, edificios residenciales y comerciales entre otros. Nuestros servicios se caracterizan por el compromiso de ofrecer un servicio consistente, con esmero y la atención de un Agrónomo que supervisa todas nuestras cuentas y atiende personalmente las necesidades del cliente. Nuestros precios mensuales siempre incluyen fertilizantes y materiales para el manejo de malezas y plagas en plantas ornamentales y el césped y ajuste y reparaciones menores de los sitemas de riego."
+  - title: 
+      en: "Arboriculture"
+      es: "Arboricultura"
+    subtitle: 
+      en: "Tree Management"
+      es: "Manejo de árboles"
+    image: "/images/transplante.jpg"
+    description: 
+      en: "We design and implement tree management plans during constructions. Also, we provide diagnosis and treatment service plus tree pruning, removal, transplanting and planting services. We have plenty of experience in transplants from 6 to 40 feet tall trees and palms. We have managed rootballs up to 16 feet diameter. In terms of pruning we clean, thin, reduce, lift or restore the trees canopy in order to achieve specific goals. During tree removals we can also take care of the stump removal using stump grinding equipment. For all tree care operations we have a highly trained crew with extensive training and experience in tree care techniques, rigging, tree climbing and safety, also, they have all the necessary equipment to perform to the highest standards of the industry. All tree work is supervised and directed by a Certified Arborist. International Society of Arboriculture (www.isa-arbor.com)"
+      es: "Creamos e implementamos planes para la conservación exitosa de árboles durante procesos de construcción. Además, proveemos servicios de diagnóstico y tratamiento de condiciones de salud en los árboles. Contamos con vasta experiencia en trasplantes de árboles desde 6 a 40 píes de altura y manejando bolas de raíces desde 1 a 16 píes de diámetro. Realizamos trabajos de poda de árboles para limpiar, entresacar, reducir, restaurar o levantar sus copas. También efectuamos cortes o remociones incluyendo el molido del tocón del árbol. Para estas tareas contamos con personal debidamente entrenado en seguridad, técnicas de arboricultura y técnicas de trepa de árboles y con el equipo diseñado para estos propósitos. Todos los trabajos son dirigidos por un Arbolista Certificado por la Sociedad Internacional de Arboricultura."
+  - title: 
+      en: "Landscape Architecture"
+      es: "Arquitectura Paisajista"
+    subtitle: 
+      en: ""
+      es: ""
+    image: "/images/planos.jpg"
+    description: 
+      en: "We offer design services for those demanding cases that require the intervention of a Landscape Architect. We work together with a Landscape Architect to analyze present conditions and the owners view or expectations in order to transform the site into that desired place. This projects may vary from a residential to a regional scale."
+      es: "Ofrecemos servicios de diseño para esos casos más complejos que requieren la intervención de un Arquitecto Paisajista. Colaboramos con Arquitectos Paisajistas para analizar las condiciones del predio y las necesidades o la visión del cliente para transformar el espacio en el lugar deseado. Estos trabajos varían en escala desde la escala del jardín hasta la escala regional."
+  - title: 
+      en: "Consulting"
+      es: "Consultoría"
+    subtitle: 
+      en: ""
+      es: ""
+    image: "/images/consulting.jpg"
+    description: 
+      en: "We offer consulting services in Landscape Horticulture, Arboriculture and Landscape Design to private and government entities. Also, we provide training in the fields of landscape horticulture and arboriculture in Puerto Rico and the Caribbean."
+      es: "Se ofrecen servicios de consultoría en Horticultura Ornamental, Arboricultura y Diseño Paisajista a entes privados y gubernamentales. También ofrecemos talleres de capacitación en Horticultura y Arboricultura en Puerto Rico y el Caribe."

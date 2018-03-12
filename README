@@ -1,0 +1,24 @@
+# palmaroja.com
+
+
+## Running The Project
+
+### Installing Jekyll
+```
+$ gem install jekyll
+```
+
+### Installing Bundler
+```
+$ gem install bundler
+```
+
+### Installing Github Pages
+```
+$ bundle install
+```
+
+### Develop in local server
+```
+$ bundle exec jekyll serve
+```

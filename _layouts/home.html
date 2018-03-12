@@ -1,0 +1,172 @@
+---
+---
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN">
+<html lang="{{page.lang}}">
+	<head>
+	{% include meta.html %}
+	</head>
+	<body class="{{ page.section }}" data-spy="scroll">
+
+    <nav id="navbar" class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+        <a class="navbar-brand js-scroll-trigger" href="/#">{{site.data.global.name}}</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarcollapse" aria-controls="navbarcollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarcollapse">
+            <ul class="navbar-nav mr-auto">
+            {% for item in site.data.global.menu %}
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{item.url[page.lang]}}">{{item.label[page.lang]}}</a></li>
+            {% endfor %}
+            </ul>
+            <ul class="navbar-nav my-2 my-lg-0">
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="flag-icon flag-icon-{% if page.lang == 'es' %}pr{% else %}us{% endif %}"></span> {{page.language}}</a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="/index-en.html"><span class="flag-icon flag-icon-us"></span> Enlgish</a>
+                    <a class="dropdown-item" href="/"><span class="flag-icon flag-icon-pr"></span> Español</a>
+                  </div>
+                </li>
+            </ul>
+        </div> 
+    </nav>
+
+    <!-- START INTRO -->
+    <section class="jumbotron ">
+      <div class="container col-md-8 text-center">
+        <h1 class="jumbotron-heading">{{site.data.intro.title[page.lang]}}</h1>
+        <p class="lead">{{site.data.intro.content[page.lang]}}</p>
+        <p><a href="#servicios" class="btn btn-primary js-scroll-trigger" >{{site.data.intro.calltoaction[page.lang]}}</a></p>
+      </div>
+    </section>
+    <!-- END INTRO -->
+
+    <!-- START SERVICES -->
+    <section class="services ">
+      <div class="container">
+        <div class="row justify-content-md-center">
+          <header class="col-md-7 text-center">
+            <h2 id="{{site.data.services.anchor[page.lang]}}">{{site.data.services.title[page.lang]}}</h2>
+            <p class="text-muted">{{site.data.services.subtitle[page.lang]}}</p>
+          </header>
+        </div>
+        <div class="row">
+          {% for service in site.data.services.service %}
+          <div class="col-lg-4 text-center">
+            <img class="rounded-circle" src="{{service.image}}" alt="Generic placeholder image" width="140" height="140">
+            <h4>{{service.title[page.lang]}}</h4>
+            <p>{{service.description[page.lang]}}</p>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+    <!-- END SERVICES -->
+
+    <!-- START PROJECTS -->
+    <section class="projects ">
+    <div class="album py-5 bg-light">
+      <div class="container">
+        <div class="row justify-content-md-center">
+          <header class="col-md-7 text-center">
+            <h2 id="{{site.data.projects.anchor[page.lang]}}">{{site.data.projects.title[page.lang]}}</h2>
+            <p class="text-muted">{{site.data.projects.subtitle[page.lang]}}</p>
+          </header>
+        </div>
+      </div>     
+      <div class="container">
+        <div class="row">
+          {% for project in site.data.projects.project %}
+          <div class="col-md-4">
+            <div class="card mb-4 box-shadow" data-toggle="modal" data-target="#carousel-modal" data-images='{{project.images | jsonify}}' data-title="{{project.title.es}}">
+              <img class="card-img-top" src="{{project.thumb}}" alt="{{project.title.es}} | uri_escape">
+              <div class="card-body">
+                <h5 class="card-title">{{project.title[page.lang]}}</h5>
+                <p class="card-text">{{project.description[page.lang]}}</p>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-sm btn-outline-secondary" >{{site.data.projects.calltoaction[page.lang]}}</button>
+                      </div>
+                  <small class="text-muted">{{project.year}}</small>
+                </div><!-- /.d-flex -->
+              </div><!-- /.card-body -->
+            </div><!-- /.card -->
+          </div><!-- /.col -->
+          {% endfor %}
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </div><!-- /.album -->
+    </section>
+    <!-- /END PROJECTS -->
+
+    <!-- START ABOUT -->
+    <section class="about ">
+    <div class="container">
+      <div class="row justify-content-md-center">
+        <header class="col-md-7 text-center">
+          <h2 id="{{site.data.about.anchor[page.lang]}}">{{site.data.about.title[page.lang]}}</h2>
+          <p class="text-muted">{{site.data.about.subtitle[page.lang]}}</p>
+        </header>
+      </div>
+      <div class="row justify-content-md-center">
+        <div class="col-md-7">
+          {{site.data.about.content[page.lang] | markdownify}}
+        </div>
+      </div>
+    </div>
+    </section>
+    <!-- /END ABOUT -->
+    
+    <hr class="content-divider">
+
+    <!-- START CAROUSEL MODAL -->
+    <div class="carousel-modal modal fade" id="carousel-modal" tabindex="-1" role="dialog" aria-hidden="true" data-keyboard="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-12 mx-auto">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <div id="carousel" class="carousel slide" data-ride="carousel" data-keyboard="true">
+                    <ol class="carousel-indicators">
+                      <li data-target="#carousel" data-slide-to="0" class="active"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img class="d-block w-100" src="" alt="First slide">
+                      </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Next</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- END CAROUSEL MODAL -->
+
+  {% include footer.html %}
+	{% include scripts.html %}
+
+</body>
+</html>

@@ -1,0 +1,62 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+     /* Margin bottom by footer height */
+    margin-bottom: 230px;
+}
+section header {
+    padding: 60px 0;
+}
+section h2 {
+    font-size: 3.0rem;
+    color: black;
+}
+
+/* Intro
+------------------------- */
+
+.jumbotron {
+    background: url('images/header@2x.jpg');
+    color: white;
+}
+
+/* Footer
+------------------------- */
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+ 
+
+/* Projects
+------------------------- */
+
+.album img {
+    transition: all .2s ease-in-out; 
+}
+.album .card {
+    box-shadow: 0 0 6px #88888873;
+}
+.album .card:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px #888888;
+}
+
+/* Image floats
+------------------------- */
+
+.container img.float-left {
+    margin: 0 12px 6px 0;
+}
+
+.container img.float-right {
+    margin: 0 6px 0 12px;
+}

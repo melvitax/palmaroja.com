@@ -1,0 +1,16 @@
+<h2>Projects</h2>
+<ul class="projects cf">
+    {% for item in  site.projects %}
+
+        {{ item.title }}
+
+    {% endfor %}
+
+    
+    {% for item in site.projects %}
+    <li>
+      <a href="{{ item.url }}"><img src="{{ item.thumb }}" width="238" height="238" /></a>
+      <h3>{{ item.title }}</h3>
+    </li>
+  {% endfor %}
+</ul>

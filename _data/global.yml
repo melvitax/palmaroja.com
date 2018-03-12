@@ -1,0 +1,23 @@
+email: "&#112;&#097;&#108;&#109;&#097;&#114;&#111;&#106;&#097;&#105;&#110;&#099;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
+tel: "+1 787-410-2424"
+name: "Palma Roja"
+legalname: "Palma Roja Inc."
+menu:
+  - label:
+      es: "Servicios"
+      en: "Services"
+    url: 
+      es: "/#servicios"
+      en: "/#services"
+  - label:
+      es: "Proyectos"
+      en: "Projects"
+    url: 
+      es: "/#proyectos"
+      en: "/#projects"
+  - label:
+      es: "Trayectoria"
+      en: "About"
+    url: 
+      es: "/#trayectoria"
+      en: "/#about"

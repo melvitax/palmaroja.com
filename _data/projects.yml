@@ -1,0 +1,175 @@
+anchor:
+  en: "projects"
+  es: "proyectos"
+title: 
+  en: "Projects"
+  es: "Projectos"
+subtitle: 
+  en: "A sample of our work"
+  es: "Una selección de nuestro trabajo"
+calltoaction: 
+  en: "View"
+  es: "Ver"
+project:
+  - title: 
+      en: "Interamerican Univerisity @ Ponce"
+      es: "Universidad Interamericana @ Ponce"
+    description: 
+      en: "Landscape Design and Installation, Tree Management, Irrigation Design and Installation, Landscape Maintenance"
+      es: "Paisajismo, arboricultura  y mantenimiento"
+    year: "2005-2014"
+    thumb: "/images/interamericana-thumb.jpg"
+    images: ["/images/interamericana-01.jpg", "/images/interamericana-02.jpg", "/images/interamericana-03.jpg", "/images/interamericana-04.jpg",  "/images/interamericana-05.jpg", "/images/interamericana-06.jpg"]
+  - title: 
+      en: "Mansiones Reales @ Guaynabo"
+      es: "Mansiones Reales @ Guaynabo"
+    description: 
+      en: "Landscape and Irrigation (Design and Installation). Ongoing landscape  maintenance service."
+      es: "Paisajismo y mantenimiento"
+    year: "2006 - Present"
+    thumb: "/images/mansiones-reales-guaynabo-thumb.jpg"
+    images: ["/images/mansiones-reales-guaynabo-01.jpg", "/images/mansiones-reales-guaynabo-02.jpg", "/images/mansiones-reales-guaynabo-03.jpg", "/images/mansiones-reales-guaynabo-04.jpg"]
+  - title: 
+      en: "Olive Garden & Famous Daves"
+      es: "Olive Garden & Famous Daves"
+    description: 
+      en: "Landscape and Irrigation (Design and Installation)"
+      es: "Paisajismo y mantenimiento (diseño y construccion de jardines y sistema de riego)"
+    year: "2014"
+    thumb: "/images/olive-garden-thumb.jpg"
+    images: ["/images/olive-garden-01.jpg", "/images/olive-garden-02.jpg", "/images/olive-garden-03.jpg", "/images/olive-garden-04.jpg", "/images/olive-garden-05.jpg", "/images/olive-garden-06.jpg", "/images/olive-garden-07.jpg", "/images/olive-garden-08.jpg"]
+  - title: 
+      en: "Paraíso del Atlántico @ Quebradillas"
+      es: "Paraíso del Atlántico @ Quebradillas"
+    description: 
+      en: "Landscape installation of design by 3rd party. Review of tree mitigation plan to increase the amount of native trees with added value to local wildlife."
+      es: "Paisajismo (implementación de plano diseñado por un Arquitecto Paisajista). Revisión e implementación del plan de mitigación de árboles utilizando al máximo, arboles nativos."
+    year: "2009"
+    thumb: "/images/paraiso-del-atlantico-thumb.jpg"
+    images: ["/images/paraiso-del-atlantico-01.jpg", "/images/paraiso-del-atlantico-02.jpg", "/images/paraiso-del-atlantico-03.jpg", "/images/paraiso-del-atlantico-04.jpg", "/images/paraiso-del-atlantico-05.jpg", "/images/paraiso-del-atlantico-06.jpg"]
+  - title: 
+      en: "Islabela Beach Resort @ Playa Montones, Isabela"
+      es: "Islabela Beach Resort @ Playa Montones, Isabela"
+    description: 
+      en: "Landscape and Irrigation (Design & Installation). Tree mitigation plan review and implementation."
+      es: "Paisajismo (diseño y construcción de jardines y sistema de riego).  Implementaión del plan de mitigación de árboles."
+    year: "2004"
+    thumb: "/images/playa-montones-thumb.jpg"
+    images: ["/images/playa-montones-01.jpg", "/images/playa-montones-02.jpg", "/images/playa-montones-03.jpg", "/images/playa-montones-04.jpg", "/images/playa-montones-05.jpg", "/images/playa-montones-06.jpg", "/images/playa-montones-07.jpg", "/images/playa-montones-08.jpg", "/images/playa-montones-09.jpg"]
+  - title: 
+      en: "Town Plaza @ Camuy"
+      es: "Plaza de Recreo @ Camuy"
+    description: 
+      en: "Landscape Design and installation"
+      es: "Diseño y construcción de jardines y sistema de riego"
+    year: "2013"
+    thumb: "/images/plaza-camuy-thumb.jpg"
+    images: ["/images/plaza-camuy-01.jpg", "/images/plaza-camuy-02.jpg", "/images/plaza-camuy-03.jpg", "/images/plaza-camuy-04.jpg"]
+  - title: 
+      en: "Residency @ Caguas"
+      es: "Residencia @ Caguas"
+    description: 
+      en: "Landscape and Irrigation (Design & Installation)"
+      es: "Paisajismo (diseño y construcción de jardines y sistema de riego)"
+    year: "2008"
+    thumb: "/images/residencia-caguas-thumb.jpg"
+    images: ["/images/residencia-caguas-01.jpg", "/images/residencia-caguas-02.jpg", "/images/residencia-caguas-03.jpg", "/images/residencia-caguas-04.jpg", "/images/residencia-caguas-05.jpg", "/images/residencia-caguas-06.jpg", "/images/residencia-caguas-07.jpg", "/images/residencia-caguas-08.jpg"]
+  - title: 
+      en: "Residency @ Cupey"
+      es: "Residencia @ Cupey"
+    description: 
+      en: "Landscape (Design and Installation)"
+      es: "Paisajismo (Diseño y construcción de jardines)"
+    year: "2006"
+    thumb: "/images/residencia-cupey-thumb.jpg"
+    images: ["/images/residencia-cupey-01.jpg", "/images/residencia-cupey-02.jpg", "/images/residencia-cupey-03.jpg"]
+  - title: 
+      en: "Residency @ El Señorial, Cupey"
+      es: "Residencia @ El Señorial, Cupey"
+    description: 
+      en: "Landscape (Design & Installation)"
+      es: "Paisajismo(diseño y construcción de jardines)"
+    year: "2006"
+    thumb: "/images/residencia-cupey-2-thumb.jpg"
+    images: ["/images/residencia-cupey-2-01.jpg", "/images/residencia-cupey-2-02.jpg", "/images/residencia-cupey-2-03.jpg", "/images/residencia-cupey-2-04.jpg", "/images/residencia-cupey-2-05.jpg"]
+  - title: 
+      en: "Residency @ Dorado"
+      es: "Residencia @ Dorado"
+    description: 
+      en: "Landscape, Irrigation and Lights (Design @ Installation)"
+      es: "Paisajismo, Sistema de riego y drenaje, Iluminación (Diseño & Construccuón)"
+    year: "2008"
+    thumb: "/images/residencia-dorado-thumb.jpg"
+    images: ["/images/residencia-dorado-01.jpg", "/images/residencia-dorado-02.jpg", "/images/residencia-dorado-03.jpg", "/images/residencia-dorado-04.jpg", "/images/residencia-dorado-05.jpg", "/images/residencia-dorado-06.jpg", "/images/residencia-dorado-07.jpg", "/images/residencia-dorado-08.jpg", "/images/residencia-dorado-09.jpg", "/images/residencia-dorado-10.jpg", "/images/residencia-dorado-11.jpg", "/images/residencia-dorado-12.jpg", "/images/residencia-dorado-13.jpg", "/images/residencia-dorado-14.jpg", "/images/residencia-dorado-15.jpg", "/images/residencia-dorado-16.jpg", "/images/residencia-dorado-17.jpg", "/images/residencia-dorado-18.jpg", "/images/residencia-dorado-19.jpg", "/images/residencia-dorado-20.jpg", "/images/residencia-dorado-21.jpg", "/images/residencia-dorado-22.jpg", "/images/residencia-dorado-23.jpg"]
+  - title: 
+      en: "Residency @ Dorado 2"
+      es: "Residencia @ Dorado 2"
+    description: 
+      en: "Landscape , Soil fill and grading, Drainage, Irrigation System, Landscape lights (Design & Installation)"
+      es: "Paisajismo (diseño y construcción de jardines , sistema de riego, drenaje  e iluminación LED). Incluyó el relleno y la nivelación de terreno."
+    year: "2014"
+    thumb: "/images/residencia-dorado-2-thumb.jpg"
+    images: ["/images/residencia-dorado-2-01.jpg", "/images/residencia-dorado-2-02.jpg", "/images/residencia-dorado-2-03.jpg", "/images/residencia-dorado-2-04.jpg", "/images/residencia-dorado-2-05.jpg", "/images/residencia-dorado-2-06.jpg", "/images/residencia-dorado-2-07.jpg", "/images/residencia-dorado-2-08.jpg", "/images/residencia-dorado-2-09.jpg"]
+  - title: 
+      en: "Residency @ Gauynabo"
+      es: "Residencia @ Gauynabo"
+    description: 
+      en: "Landscape (Design & Installation)"
+      es: "Paisajismo (Diseño y construcción de jardines y sistema de riego)"
+    year: "2007"
+    thumb: "/images/residencia-guaynabo-thumb.jpg"
+    images: ["/images/residencia-guaynabo-01.jpg", "/images/residencia-guaynabo-01.jpg"]
+  - title: 
+      en: "Residency @ Guaynabo City"
+      es: "Residencia @ Guaynabo City"
+    description: 
+      en: "Landscape , Irrigation and Lights (Design & Installation)"
+      es: "Paisajismo (diseño y construcción de jardines, sistema de riego e iluminación)"
+    year: "2006"
+    thumb: "/images/residencia-guaynabo-2-thumb.jpg"
+    images: ["/images/residencia-guaynabo-2-01.jpg", "/images/residencia-guaynabo-2-02.jpg", "/images/residencia-guaynabo-2-03.jpg", "/images/residencia-guaynabo-2-04.jpg", "/images/residencia-guaynabo-2-05.jpg", "/images/residencia-guaynabo-2-06.jpg", "/images/residencia-guaynabo-2-07.jpg", "/images/residencia-guaynabo-2-08.jpg"]
+  - title: 
+      en: "Residency @ Guaynabo City #3"
+      es: "Residencia @ Guaynabo City #3"
+    description: 
+      en: "Landscape and Irrigation (Design &  Installation)"
+      es: "Paisajismo (diseño y construcción de jardines y sistema de riego)"
+    year: "2005"
+    thumb: "/images/residencia-guaynabo-3-thumb.jpg"
+    images: ["/images/residencia-guaynabo-3-01.jpg", "/images/residencia-guaynabo-3-02.jpg", "/images/residencia-guaynabo-3-03.jpg"]
+  - title: 
+      en: "Residencia @ Utuado"
+      es: "Residency @ Utuado"
+    description: 
+      en: "Landscape design and installation"
+      es: "Diseño e instalación de jardines y riego"
+    year: "2010"
+    thumb: "/images/residencia-utuado-thumb.jpg"
+    images: ["/images/residencia-utuado-01.jpg"]
+  - title: 
+      en: "Residential Tree Management"
+      es: "Transplante de árboles"
+    description: 
+      en: "Residential , medium size , tree transplant"
+      es: "Arboricultura (trasplante de dos árboles de Mangle verde, aproximadamente 15' de altura)"
+    year: "2005"
+    thumb: "/images/transplante-de-arboles-thumb.jpg"
+    images: ["/images/transplante-de-arboles-01.jpg", "/images/transplante-de-arboles-02.jpg", "/images/transplante-de-arboles-03.jpg", "/images/transplante-de-arboles-04.jpg", "/images/transplante-de-arboles-05.jpg", "/images/transplante-de-arboles-06.jpg", "/images/transplante-de-arboles-07.jpg", "/images/transplante-de-arboles-08.jpg"]
+  - title: 
+      en: "Metropolitan University"
+      es: "Universidad Metropolitana"
+    description: 
+      en: "Landscape Design and installation. Irrigation system design and installation. Tree management. Review and implementation of tree mitigation plan with the goal of increasing the use of native trees with high value to local fauna."
+      es: "Paisajismo ( Diseño y construcción de jardines, sistema de riego, techo  y muro verde). Diseño e implementación del plan de mitigación de árboles utilizando árboles y palmas nativas."
+    year: "1987 - 2014"
+    thumb: "/images/universidad-metropolitana-thumb.jpg"
+    images: ["/images/universidad-metropolitana-01.jpg", "/images/universidad-metropolitana-02.jpg", "/images/universidad-metropolitana-03.jpg", "/images/universidad-metropolitana-04.jpg", "/images/universidad-metropolitana-05.jpg"]
+  - title: 
+      en: "University of Puerto Rico @ Rio Piedras"
+      es: "Universidad de Puerto Rico @ Rio Piedras"
+    description: 
+      en: "Tree management during construction. Prepare and execute a tree management and preservation plan for the trees located at a construction site. Tree protection zones  and heavy equipment access trails were established. Some trees were pruned and other were transplanted, including specimens that weighted 55 tons."
+      es: "Arboricultura (Diseño y ejecución de plan de conservación de árboles). Incluyó prácticas para cuidar y proteger los árboles a permanecer y el trasplante de árboles jovenes y adultos, entre ellos uno que pesó 55 toneladas."
+    year: "2006"
+    thumb: "/images/upr-rio-piedras-thumb.jpg"
+    images: ["/images/upr-rio-piedras-01.jpg", "/images/upr-rio-piedras-02.jpg", "/images/upr-rio-piedras-03.jpg", "/images/upr-rio-piedras-04.jpg", "/images/upr-rio-piedras-05.jpg", "/images/upr-rio-piedras-06.jpg"]
